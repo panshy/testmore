@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## welcom to testmore edit by PanYL
 
-You can use the [editor on GitHub](https://github.com/panshy/testmore.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+you can contact me with my email or phone ：
+E-Mail：pan3670200@163.com
+Phone ：17612728942
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MyResunme
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Born ： Guangxi /China
+AGE: 1989
+Education： 
 
 ```markdown
 Syntax highlighted code block
